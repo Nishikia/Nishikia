@@ -4,7 +4,8 @@ Hi! I am Britney! O(∩_∩)O
 CS/Cybersecurity Student
 ------------------------
 
-* 🌍  I'm based in Edinburg, TX
+* 💚  I am currently learning Python & HTML/CSS. Need to refresh C++ 🥱
+* 🌍  I'm based in Edinburg, TX
 * ✉️  You can contact me at [camobrit@gmail.com](mailto:camobrit@gmail.com)
 * ⚡  CARRRLLLLLL
 
